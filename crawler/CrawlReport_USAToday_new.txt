@@ -1,0 +1,44 @@
+Name: Shubham Gore
+USC ID: 4084438877
+News site crawled: usatoday.com
+Number of threads: 
+Used Python so used CONCURRENT_REQUESTS_PER_DOMAIN : 64
+
+Fetch Statistics
+================
+# fetches attempted: 20000
+# fetches succeeded: 17260
+# fetches failed or aborted: 2740(including failed and aborted)
+
+Outgoing URLs:
+==============
+Total URLs extracted: 3035259
+# unique URLs extracted: 261136
+# unique URLs within News Site: 110829
+# unique URLs outside News Site: 150307
+
+Status Codes:
+=============
+200 OK: 17273
+301 Moved Permanently: 0
+401 Unauthorized: 0
+403 Forbidden: 2
+404 Not Found: 274
+406 : 2456
+429 : 8
+
+File Sizes:
+===========
+< 1KB: 2642
+1KB ~ <10KB: 1
+10KB ~ <100KB: 7110
+100KB ~ <1MB: 10250
+>= 1MB: 10
+
+Content Types:
+==============
+text/html: 17375
+image/gif: 171
+image/jpeg: 0
+image/png: 0
+application/pdf: 0
